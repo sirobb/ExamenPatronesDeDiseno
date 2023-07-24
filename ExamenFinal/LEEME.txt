@@ -1,0 +1,2 @@
+para poder ingresar a la aplicacion el usuario y pass es admin, 
+si es otra clave, no se puede ingresar
